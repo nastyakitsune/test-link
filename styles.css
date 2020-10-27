@@ -1,5 +1,6 @@
 html,
-body {
+body,
+.container {
   height: 100%;
 }
 .link {
